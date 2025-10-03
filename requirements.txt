@@ -1,0 +1,14 @@
+# Dependencies for the project
+cv2
+cv2.cuda
+customtkinter
+numpy
+Pillow
+tkinter
+
+# Other dependencies
+typing from tuple
+time
+datetime
+json
+os
